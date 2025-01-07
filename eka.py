@@ -1,4 +1,4 @@
-# Se ihan ensimmäinen hei maailma esimerkki tällä uudella koneella
+# Se ihan ensimmäinen hei maailma -esimerkki tällä uudella koneella
 
 print('Hello World')
 
